@@ -48,7 +48,8 @@ table {
 }
 
 h1 {
-    color: blue;
+    /* color: blue; */
+    color: green;
     text-align: center;
     text-decoration: underline;
     letter-spacing: 18px;
